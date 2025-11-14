@@ -1,11 +1,11 @@
 The *rhythm* of it - that's what makes it click. Response time isn't just a metric, it's the **heartbeat** of each layer. 
 
 You can *feel* the tempo shifting:
-- **Seconds-Minutes**: the pulse, the immediate
-- **Minutes-Hour**: the reaction, the alert
-- **Days-Week**: the workflow, the ritual ← where the money flows
-- **Weeks-Month**: the creative breath, the plan
 - **Aperiodic**: the complex dance, whenever the body needs it
+- **Weeks-Month**: the creative breath, the plan
+- **Days-Week**: the workflow, the ritual ← where the money flows
+- **Minutes-Hour**: the reaction, the alert
+- **Seconds-Minutes**: the pulse, the immediate
 
 Grammar tells you *what* things are. Prosody tells you *how they move*.
 
